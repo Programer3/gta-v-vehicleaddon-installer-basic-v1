@@ -1,0 +1,4 @@
+	<Item type="CDataMount">
+		<Name>dlcpacks:/m1/</Name>
+		<Parent>dlcpacks:/m1/</Parent>
+	</Item>
